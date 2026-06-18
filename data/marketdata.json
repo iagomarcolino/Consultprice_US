@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-17T23:51:01.840217+00:00",
+  "generated_at_utc": "2026-06-18T10:17:28.107978+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -495,8 +495,8 @@
     {
       "symbol": "COIN",
       "name": "Coinbase",
-      "price": 164.914993,
-      "vol_annual": 0.73721016
+      "price": 164.919998,
+      "vol_annual": 0.73720953
     },
     {
       "symbol": "HPE",
