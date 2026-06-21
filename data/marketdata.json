@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-20T08:52:03.280675+00:00",
+  "generated_at_utc": "2026-06-21T09:46:20.416292+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -369,8 +369,8 @@
     {
       "symbol": "MA",
       "name": "Mastercard",
-      "price": 492.98999,
-      "vol_annual": 0.22878517
+      "price": 489.790009,
+      "vol_annual": 0.22855302
     },
     {
       "symbol": "SMCI",
@@ -507,8 +507,8 @@
     {
       "symbol": "LIN",
       "name": "Linde",
-      "price": 515.849976,
-      "vol_annual": 0.18763363
+      "price": 512.150024,
+      "vol_annual": 0.18749279
     },
     {
       "symbol": "INTU",
@@ -531,8 +531,8 @@
     {
       "symbol": "COF",
       "name": "Capital One",
-      "price": 200.869995,
-      "vol_annual": 0.35883926
+      "price": 201.529999,
+      "vol_annual": 0.35839663
     },
     {
       "symbol": "ON",
@@ -543,8 +543,8 @@
     {
       "symbol": "PG",
       "name": "Procter & Gamble",
-      "price": 150.559998,
-      "vol_annual": 0.19475424
+      "price": 150.380005,
+      "vol_annual": 0.1945109
     },
     {
       "symbol": "DDOG",
@@ -645,8 +645,8 @@
     {
       "symbol": "TMO",
       "name": "Thermo Fisher Scientific",
-      "price": 461.690002,
-      "vol_annual": 0.31416041
+      "price": 464.609985,
+      "vol_annual": 0.31381069
     },
     {
       "symbol": "ABT",
@@ -657,8 +657,8 @@
     {
       "symbol": "DHR",
       "name": "Danaher",
-      "price": 177.759995,
-      "vol_annual": 0.3075691
+      "price": 177.169998,
+      "vol_annual": 0.30718928
     },
     {
       "symbol": "ISRG",
@@ -669,8 +669,8 @@
     {
       "symbol": "VRTX",
       "name": "Vertex Pharmaceuticals",
-      "price": 458.98999,
-      "vol_annual": 0.3448481
+      "price": 451.630005,
+      "vol_annual": 0.34464927
     },
     {
       "symbol": "GILD",
@@ -681,8 +681,8 @@
     {
       "symbol": "REGN",
       "name": "Regeneron Pharmaceuticals",
-      "price": 607.929993,
-      "vol_annual": 0.38378509
+      "price": 609.940002,
+      "vol_annual": 0.3833162
     },
     {
       "symbol": "MDT",
@@ -723,26 +723,26 @@
     {
       "symbol": "BLK",
       "name": "BlackRock",
-      "price": 1057.380005,
-      "vol_annual": 0.27744671
+      "price": 1050.089966,
+      "vol_annual": 0.27715328
     },
     {
       "symbol": "SPGI",
       "name": "S&P Global",
-      "price": 418.019989,
-      "vol_annual": 0.27266289
+      "price": 410.920013,
+      "vol_annual": 0.27264194
     },
     {
       "symbol": "CME",
       "name": "CME Group",
-      "price": 252.539993,
-      "vol_annual": 0.21159618
+      "price": 246.380005,
+      "vol_annual": 0.21225984
     },
     {
       "symbol": "ICE",
       "name": "Intercontinental Exchange",
-      "price": 134.589996,
-      "vol_annual": 0.21718134
+      "price": 133.880005,
+      "vol_annual": 0.21694353
     },
     {
       "symbol": "MMC",
@@ -753,14 +753,14 @@
     {
       "symbol": "CB",
       "name": "Chubb",
-      "price": 327.959991,
-      "vol_annual": 0.19320292
+      "price": 323.399994,
+      "vol_annual": 0.19329785
     },
     {
       "symbol": "PGR",
       "name": "Progressive",
-      "price": 204.419998,
-      "vol_annual": 0.24878727
+      "price": 204.869995,
+      "vol_annual": 0.24848467
     },
     {
       "symbol": "T",
@@ -813,14 +813,14 @@
     {
       "symbol": "GD",
       "name": "General Dynamics",
-      "price": 362.829987,
-      "vol_annual": 0.23021744
+      "price": 350.01001,
+      "vol_annual": 0.23173582
     },
     {
       "symbol": "DE",
       "name": "Deere & Company",
-      "price": 588.469971,
-      "vol_annual": 0.30409844
+      "price": 589.23999,
+      "vol_annual": 0.30371626
     },
     {
       "symbol": "ETN",
@@ -837,20 +837,20 @@
     {
       "symbol": "PH",
       "name": "Parker-Hannifin",
-      "price": 945.969971,
-      "vol_annual": 0.29655393
+      "price": 953.27002,
+      "vol_annual": 0.29623231
     },
     {
       "symbol": "ITW",
       "name": "Illinois Tool Works",
-      "price": 262.109985,
-      "vol_annual": 0.22082324
+      "price": 264.089996,
+      "vol_annual": 0.22062859
     },
     {
       "symbol": "MMM",
       "name": "3M",
-      "price": 159.229996,
-      "vol_annual": 0.28364207
+      "price": 160.600006,
+      "vol_annual": 0.283358
     },
     {
       "symbol": "UPS",
@@ -867,14 +867,14 @@
     {
       "symbol": "LOW",
       "name": "Lowe's",
-      "price": 217.270004,
-      "vol_annual": 0.25897318
+      "price": 222.199997,
+      "vol_annual": 0.2592917
     },
     {
       "symbol": "TGT",
       "name": "Target",
-      "price": 127.809998,
-      "vol_annual": 0.38409083
+      "price": 130.740005,
+      "vol_annual": 0.38404934
     },
     {
       "symbol": "NKE",
@@ -897,14 +897,14 @@
     {
       "symbol": "MAR",
       "name": "Marriott International",
-      "price": 394.609985,
-      "vol_annual": 0.28258267
+      "price": 396.200012,
+      "vol_annual": 0.28223899
     },
     {
       "symbol": "HLT",
       "name": "Hilton Worldwide",
-      "price": 349.299988,
-      "vol_annual": 0.25155645
+      "price": 348.839996,
+      "vol_annual": 0.25124605
     }
   ]
 }
