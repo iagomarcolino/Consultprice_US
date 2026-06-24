@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-23T23:31:15.959148+00:00",
+  "generated_at_utc": "2026-06-24T09:24:04.895892+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -303,14 +303,14 @@
     {
       "symbol": "SATS",
       "name": "EchoStar",
-      "price": 103.915001,
-      "vol_annual": 0.83235011
+      "price": 103.919998,
+      "vol_annual": 0.8323491
     },
     {
       "symbol": "PANW",
       "name": "Palo Alto Networks",
-      "price": 290.915009,
-      "vol_annual": 0.38707832
+      "price": 290.920013,
+      "vol_annual": 0.38707873
     },
     {
       "symbol": "ASTS",
