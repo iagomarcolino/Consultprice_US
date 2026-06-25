@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-24T23:34:24.600042+00:00",
+  "generated_at_utc": "2026-06-25T08:58:00.607336+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -304,7 +304,7 @@
       "symbol": "SATS",
       "name": "EchoStar",
       "price": 100.279999,
-      "vol_annual": 0.83442498
+      "vol_annual": 0.83396664
     },
     {
       "symbol": "PANW",
@@ -513,8 +513,8 @@
     {
       "symbol": "INTU",
       "name": "Intuit",
-      "price": 262.234985,
-      "vol_annual": 0.42835961
+      "price": 262.23999,
+      "vol_annual": 0.42836014
     },
     {
       "symbol": "APH",
