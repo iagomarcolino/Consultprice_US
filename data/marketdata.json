@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-25T23:45:42.895331+00:00",
+  "generated_at_utc": "2026-06-26T09:21:25.353841+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -304,7 +304,7 @@
       "symbol": "SATS",
       "name": "EchoStar",
       "price": 97.129997,
-      "vol_annual": 0.83250822
+      "vol_annual": 0.8325334
     },
     {
       "symbol": "PANW",
