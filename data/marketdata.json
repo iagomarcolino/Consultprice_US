@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-30T23:38:08.000298+00:00",
+  "generated_at_utc": "2026-07-01T09:41:24.481418+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -303,8 +303,8 @@
     {
       "symbol": "SATS",
       "name": "EchoStar",
-      "price": 100.849998,
-      "vol_annual": 0.83329378
+      "price": 101.5,
+      "vol_annual": 0.83224698
     },
     {
       "symbol": "PANW",
@@ -441,8 +441,8 @@
     {
       "symbol": "CRWD",
       "name": "CrowdStrike",
-      "price": 763.140015,
-      "vol_annual": 0.47966258
+      "price": 701.090027,
+      "vol_annual": 0.47836454
     },
     {
       "symbol": "RGNT",
