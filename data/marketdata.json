@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-04T08:33:34.797308+00:00",
+  "generated_at_utc": "2026-07-05T08:49:28.060452+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -303,8 +303,8 @@
     {
       "symbol": "SATS",
       "name": "EchoStar",
-      "price": 101.489998,
-      "vol_annual": 0.8305024
+      "price": 101.5,
+      "vol_annual": 0.83050259
     },
     {
       "symbol": "PANW",
@@ -382,7 +382,7 @@
       "symbol": "HON",
       "name": "Honeywell",
       "price": 229.860001,
-      "vol_annual": 0.25646617
+      "vol_annual": 0.26147938
     },
     {
       "symbol": "COST",
