@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-07T23:14:46.646545+00:00",
+  "generated_at_utc": "2026-07-08T08:23:50.062562+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -33,8 +33,8 @@
     {
       "symbol": "TSLA",
       "name": "Tesla",
-      "price": 402.899994,
-      "vol_annual": 0.57913726
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "AMD",
@@ -45,8 +45,8 @@
     {
       "symbol": "INTC",
       "name": "Intel",
-      "price": 110.389999,
-      "vol_annual": 0.70882569
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "MRVL",
@@ -57,8 +57,8 @@
     {
       "symbol": "AAPL",
       "name": "Apple",
-      "price": 310.660004,
-      "vol_annual": 0.29803456
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "MSFT",
@@ -69,8 +69,8 @@
     {
       "symbol": "AVGO",
       "name": "Broadcom",
-      "price": 370.779999,
-      "vol_annual": 0.54777822
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "META",
@@ -207,14 +207,14 @@
     {
       "symbol": "AAOI",
       "name": "Applied Optoelectronics",
-      "price": 114.410004,
-      "vol_annual": 1.3465231
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "AAL",
       "name": "American Airlines",
-      "price": 17.200001,
-      "vol_annual": 0.53240663
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "UNH",
@@ -237,8 +237,8 @@
     {
       "symbol": "JPM",
       "name": "JPMorgan Chase",
-      "price": 339.220001,
-      "vol_annual": 0.2448148
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "GS",
@@ -309,8 +309,8 @@
     {
       "symbol": "PANW",
       "name": "Palo Alto Networks",
-      "price": 337.040009,
-      "vol_annual": 0.39686563
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "ASTS",
@@ -399,8 +399,8 @@
     {
       "symbol": "CIEN",
       "name": "Ciena",
-      "price": 418.910004,
-      "vol_annual": 0.6722876
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "JNJ",
@@ -495,8 +495,8 @@
     {
       "symbol": "COIN",
       "name": "Coinbase",
-      "price": 163.509995,
-      "vol_annual": 0.72839857
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "HPE",
@@ -585,8 +585,8 @@
     {
       "symbol": "MS",
       "name": "Morgan Stanley",
-      "price": 222.039993,
-      "vol_annual": 0.30605457
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "MPWR",
@@ -597,8 +597,8 @@
     {
       "symbol": "MCD",
       "name": "McDonald's",
-      "price": 282.209991,
-      "vol_annual": 0.18522447
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "ANET",
