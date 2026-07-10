@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-09T23:36:36.579345+00:00",
+  "generated_at_utc": "2026-07-10T09:30:45.190209+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -777,8 +777,8 @@
     {
       "symbol": "CMCSA",
       "name": "Comcast",
-      "price": 23.344999,
-      "vol_annual": 0.30373544
+      "price": 23.35,
+      "vol_annual": 0.30373908
     },
     {
       "symbol": "DIS",
