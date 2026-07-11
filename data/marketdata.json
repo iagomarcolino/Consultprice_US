@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-10T23:12:59.849747+00:00",
+  "generated_at_utc": "2026-07-11T07:51:16.163768+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -99,8 +99,8 @@
     {
       "symbol": "WDC",
       "name": "Western Digital",
-      "price": 582.585022,
-      "vol_annual": 0.65779802
+      "price": 582.590027,
+      "vol_annual": 0.65779804
     },
     {
       "symbol": "STX",
