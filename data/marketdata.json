@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-17T23:08:29.033354+00:00",
+  "generated_at_utc": "2026-07-18T07:44:38.641031+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -69,8 +69,8 @@
     {
       "symbol": "AVGO",
       "name": "Broadcom",
-      "price": 370.825012,
-      "vol_annual": 0.54932204
+      "price": 370.829987,
+      "vol_annual": 0.54932186
     },
     {
       "symbol": "META",
@@ -345,8 +345,8 @@
     {
       "symbol": "TER",
       "name": "Teradyne",
-      "price": 322.355011,
-      "vol_annual": 0.67391395
+      "price": 322.359985,
+      "vol_annual": 0.67391392
     },
     {
       "symbol": "BA",
