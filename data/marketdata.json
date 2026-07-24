@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-23T23:11:05.860613+00:00",
+  "generated_at_utc": "2026-07-24T08:23:10.225881+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -213,8 +213,8 @@
     {
       "symbol": "AAL",
       "name": "American Airlines",
-      "price": 13.555,
-      "vol_annual": 0.5259973
+      "price": 13.56,
+      "vol_annual": 0.52595889
     },
     {
       "symbol": "UNH",
