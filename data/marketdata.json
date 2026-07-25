@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-24T23:16:24.131441+00:00",
+  "generated_at_utc": "2026-07-25T08:02:39.067886+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -213,8 +213,8 @@
     {
       "symbol": "AAL",
       "name": "American Airlines",
-      "price": 14.475,
-      "vol_annual": 0.52845976
+      "price": 14.48,
+      "vol_annual": 0.52848699
     },
     {
       "symbol": "UNH",
@@ -777,8 +777,8 @@
     {
       "symbol": "CMCSA",
       "name": "Comcast",
-      "price": 22.295,
-      "vol_annual": 0.30024372
+      "price": 22.299999,
+      "vol_annual": 0.30025237
     },
     {
       "symbol": "DIS",
