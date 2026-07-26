@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-25T08:02:39.067886+00:00",
+  "generated_at_utc": "2026-07-26T08:22:33.783917+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -39,8 +39,8 @@
     {
       "symbol": "AMD",
       "name": "Advanced Micro Devices",
-      "price": 521.950012,
-      "vol_annual": 0.63952641
+      "price": 539.690002,
+      "vol_annual": 0.63965057
     },
     {
       "symbol": "INTC",
@@ -129,8 +129,8 @@
     {
       "symbol": "KLAC",
       "name": "KLA Corporation",
-      "price": 210.520004,
-      "vol_annual": 0.53644591
+      "price": 218.729996,
+      "vol_annual": 0.53611542
     },
     {
       "symbol": "NBIS",
@@ -315,8 +315,8 @@
     {
       "symbol": "ASTS",
       "name": "AST SpaceMobile",
-      "price": 56.200001,
-      "vol_annual": 1.04322348
+      "price": 59.18,
+      "vol_annual": 1.04365713
     },
     {
       "symbol": "ALAB",
@@ -333,8 +333,8 @@
     {
       "symbol": "IREN",
       "name": "IREN Limited",
-      "price": 37.07,
-      "vol_annual": 1.0147313
+      "price": 40.580002,
+      "vol_annual": 1.01329885
     },
     {
       "symbol": "ADBE",
@@ -351,8 +351,8 @@
     {
       "symbol": "BA",
       "name": "Boeing",
-      "price": 209.520004,
-      "vol_annual": 0.35777268
+      "price": 209.229996,
+      "vol_annual": 0.35822226
     },
     {
       "symbol": "ADI",
@@ -429,8 +429,8 @@
     {
       "symbol": "BAC",
       "name": "Bank of America",
-      "price": 62.049999,
-      "vol_annual": 0.25764807
+      "price": 61.279999,
+      "vol_annual": 0.25780392
     },
     {
       "symbol": "MRK",
@@ -447,8 +447,8 @@
     {
       "symbol": "RGNT",
       "name": "Regentis Biomaterials",
-      "price": 1.96,
-      "vol_annual": 2.79432246
+      "price": 1.95,
+      "vol_annual": 2.80321062
     },
     {
       "symbol": "GLW",
@@ -609,8 +609,8 @@
     {
       "symbol": "GOOGL",
       "name": "Alphabet Class A",
-      "price": 319.73999,
-      "vol_annual": 0.32196757
+      "price": 317.690002,
+      "vol_annual": 0.32234614
     },
     {
       "symbol": "TSM",
@@ -669,8 +669,8 @@
     {
       "symbol": "VRTX",
       "name": "Vertex Pharmaceuticals",
-      "price": 477.359985,
-      "vol_annual": 0.34784865
+      "price": 473.089996,
+      "vol_annual": 0.34821341
     },
     {
       "symbol": "GILD",
@@ -693,8 +693,8 @@
     {
       "symbol": "CVS",
       "name": "CVS Health",
-      "price": 107.739998,
-      "vol_annual": 0.32723895
+      "price": 106.889999,
+      "vol_annual": 0.32761951
     },
     {
       "symbol": "PFE",
@@ -801,8 +801,8 @@
     {
       "symbol": "LMT",
       "name": "Lockheed Martin",
-      "price": 582.599976,
-      "vol_annual": 0.28810992
+      "price": 568.590027,
+      "vol_annual": 0.28784128
     },
     {
       "symbol": "NOC",
