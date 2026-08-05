@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-04T23:18:18.494916+00:00",
+  "generated_at_utc": "2026-08-05T08:30:51.735541+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -663,14 +663,14 @@
     {
       "symbol": "ISRG",
       "name": "Intuitive Surgical",
-      "price": 368.265015,
-      "vol_annual": 0.36801203
+      "price": 368.269989,
+      "vol_annual": 0.3680116
     },
     {
       "symbol": "VRTX",
       "name": "Vertex Pharmaceuticals",
-      "price": 478.704987,
-      "vol_annual": 0.33293539
+      "price": 478.709991,
+      "vol_annual": 0.33293572
     },
     {
       "symbol": "GILD",
