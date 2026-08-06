@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-05T23:17:52.545578+00:00",
+  "generated_at_utc": "2026-08-06T08:30:57.126889+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -591,8 +591,8 @@
     {
       "symbol": "MPWR",
       "name": "Monolithic Power Systems",
-      "price": 1345.454956,
-      "vol_annual": 0.58644683
+      "price": 1345.459961,
+      "vol_annual": 0.58644685
     },
     {
       "symbol": "MCD",
