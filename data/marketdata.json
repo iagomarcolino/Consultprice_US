@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-07T01:33:57.279076+00:00",
+  "generated_at_utc": "2026-08-07T07:10:34.248615+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -69,8 +69,8 @@
     {
       "symbol": "AVGO",
       "name": "Broadcom",
-      "price": 420.565002,
-      "vol_annual": 0.50993915
+      "price": 420.570007,
+      "vol_annual": 0.50993921
     },
     {
       "symbol": "META",
