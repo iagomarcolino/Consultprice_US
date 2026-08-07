@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-06T08:30:57.126889+00:00",
+  "generated_at_utc": "2026-08-07T01:33:57.279076+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -9,296 +9,296 @@
     {
       "symbol": "SPCX",
       "name": "Space Exploration Technologies Corp",
-      "price": 108.269997,
-      "vol_annual": 1.04588385
+      "price": 114.919998,
+      "vol_annual": 1.04759509
     },
     {
       "symbol": "MU",
       "name": "Micron Technology",
-      "price": 893.190002,
-      "vol_annual": 0.74853092
+      "price": 881.469971,
+      "vol_annual": 0.74852499
     },
     {
       "symbol": "NVDA",
       "name": "NVIDIA",
-      "price": 219.220001,
-      "vol_annual": 0.45904128
+      "price": 218.990005,
+      "vol_annual": 0.45862221
     },
     {
       "symbol": "SNDK",
       "name": "SanDisk",
-      "price": 1350.5,
-      "vol_annual": 1.0596139
+      "price": 1258.579956,
+      "vol_annual": 1.06025094
     },
     {
       "symbol": "TSLA",
       "name": "Tesla",
-      "price": 321.549988,
-      "vol_annual": 0.57804434
+      "price": 319.529999,
+      "vol_annual": 0.57748575
     },
     {
       "symbol": "AMD",
       "name": "Advanced Micro Devices",
-      "price": 482.049988,
-      "vol_annual": 0.65670331
+      "price": 489.279999,
+      "vol_annual": 0.6566262
     },
     {
       "symbol": "INTC",
       "name": "Intel",
-      "price": 101.059998,
-      "vol_annual": 0.72612966
+      "price": 99.809998,
+      "vol_annual": 0.72622391
     },
     {
       "symbol": "MRVL",
       "name": "Marvell Technology",
-      "price": 211.020004,
-      "vol_annual": 0.77033665
+      "price": 210.539993,
+      "vol_annual": 0.77027861
     },
     {
       "symbol": "AAPL",
       "name": "Apple",
-      "price": 311.0,
-      "vol_annual": 0.30725916
+      "price": 312.410004,
+      "vol_annual": 0.30721564
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft",
-      "price": 487.459991,
-      "vol_annual": 0.3023937
+      "price": 499.859985,
+      "vol_annual": 0.30296228
     },
     {
       "symbol": "AVGO",
       "name": "Broadcom",
-      "price": 418.279999,
-      "vol_annual": 0.51011872
+      "price": 420.565002,
+      "vol_annual": 0.50993915
     },
     {
       "symbol": "META",
       "name": "Meta Platforms",
-      "price": 588.77002,
-      "vol_annual": 0.40003728
+      "price": 589.900024,
+      "vol_annual": 0.39996505
     },
     {
       "symbol": "AMZN",
       "name": "Amazon",
-      "price": 272.649994,
-      "vol_annual": 0.35115198
+      "price": 272.26001,
+      "vol_annual": 0.35107913
     },
     {
       "symbol": "AMAT",
       "name": "Applied Materials",
-      "price": 534.23999,
-      "vol_annual": 0.55047124
+      "price": 527.47998,
+      "vol_annual": 0.5505647
     },
     {
       "symbol": "GOOG",
       "name": "Alphabet Class C",
-      "price": 360.130005,
-      "vol_annual": 0.32461054
+      "price": 356.619995,
+      "vol_annual": 0.32456357
     },
     {
       "symbol": "WDC",
       "name": "Western Digital",
-      "price": 519.169983,
-      "vol_annual": 0.68725835
+      "price": 451.519989,
+      "vol_annual": 0.69693515
     },
     {
       "symbol": "STX",
       "name": "Seagate Technology",
-      "price": 837.659973,
-      "vol_annual": 0.63708943
+      "price": 852.950012,
+      "vol_annual": 0.63713159
     },
     {
       "symbol": "PLTR",
       "name": "Palantir",
-      "price": 158.429993,
-      "vol_annual": 0.65759075
+      "price": 155.919998,
+      "vol_annual": 0.65750787
     },
     {
       "symbol": "LRCX",
       "name": "Lam Research",
-      "price": 307.420013,
-      "vol_annual": 0.58483841
+      "price": 305.769989,
+      "vol_annual": 0.58487889
     },
     {
       "symbol": "LITE",
       "name": "Lumentum Holdings",
-      "price": 826.26001,
-      "vol_annual": 0.86905746
+      "price": 838.059998,
+      "vol_annual": 0.86907617
     },
     {
       "symbol": "KLAC",
       "name": "KLA Corporation",
-      "price": 192.800003,
-      "vol_annual": 0.55039265
+      "price": 193.220001,
+      "vol_annual": 0.55035258
     },
     {
       "symbol": "NBIS",
       "name": "Nebius Group",
-      "price": 218.990005,
-      "vol_annual": 1.11277865
+      "price": 189.880005,
+      "vol_annual": 1.11880898
     },
     {
       "symbol": "APP",
       "name": "AppLovin",
-      "price": 417.799988,
-      "vol_annual": 0.80523293
+      "price": 335.670013,
+      "vol_annual": 0.82342541
     },
     {
       "symbol": "ORCL",
       "name": "Oracle",
-      "price": 144.389999,
-      "vol_annual": 0.59485956
+      "price": 143.470001,
+      "vol_annual": 0.59487803
     },
     {
       "symbol": "ROKU",
       "name": "Roku",
-      "price": 146.960007,
-      "vol_annual": 0.52601558
+      "price": 150.070007,
+      "vol_annual": 0.52618799
     },
     {
       "symbol": "HOOD",
       "name": "Robinhood Markets",
-      "price": 92.800003,
-      "vol_annual": 0.73904928
+      "price": 90.709999,
+      "vol_annual": 0.73895104
     },
     {
       "symbol": "LLY",
       "name": "Eli Lilly",
-      "price": 1169.859985,
-      "vol_annual": 0.39882498
+      "price": 1191.939941,
+      "vol_annual": 0.39906239
     },
     {
       "symbol": "GEV",
       "name": "GE Vernova",
-      "price": 1017.960022,
-      "vol_annual": 0.56545888
+      "price": 1000.299988,
+      "vol_annual": 0.56566349
     },
     {
       "symbol": "XOM",
       "name": "Exxon Mobil",
-      "price": 151.630005,
-      "vol_annual": 0.25779569
+      "price": 154.839996,
+      "vol_annual": 0.25797206
     },
     {
       "symbol": "RKLB",
       "name": "Rocket Lab",
-      "price": 74.82,
-      "vol_annual": 0.92717266
+      "price": 75.669998,
+      "vol_annual": 0.9267676
     },
     {
       "symbol": "QCOM",
       "name": "Qualcomm",
-      "price": 157.529999,
-      "vol_annual": 0.48173249
+      "price": 160.389999,
+      "vol_annual": 0.48191722
     },
     {
       "symbol": "NFLX",
       "name": "Netflix",
-      "price": 74.199997,
-      "vol_annual": 0.35273613
+      "price": 73.690002,
+      "vol_annual": 0.35268884
     },
     {
       "symbol": "DELL",
       "name": "Dell Technologies",
-      "price": 462.700012,
-      "vol_annual": 0.63804255
+      "price": 437.649994,
+      "vol_annual": 0.63977195
     },
     {
       "symbol": "AAOI",
       "name": "Applied Optoelectronics",
-      "price": 128.559998,
-      "vol_annual": 1.3543963
+      "price": 124.220001,
+      "vol_annual": 1.35467925
     },
     {
       "symbol": "AAL",
       "name": "American Airlines",
-      "price": 16.58,
-      "vol_annual": 0.53252691
+      "price": 16.030001,
+      "vol_annual": 0.53312833
     },
     {
       "symbol": "UNH",
       "name": "UnitedHealth Group",
-      "price": 412.75,
-      "vol_annual": 0.4685161
+      "price": 403.970001,
+      "vol_annual": 0.46880556
     },
     {
       "symbol": "CSCO",
       "name": "Cisco Systems",
-      "price": 121.5,
-      "vol_annual": 0.3036223
+      "price": 120.879997,
+      "vol_annual": 0.30366935
     },
     {
       "symbol": "MSTR",
       "name": "Strategy Inc.",
-      "price": 98.370003,
-      "vol_annual": 0.77787776
+      "price": 96.849998,
+      "vol_annual": 0.77721761
     },
     {
       "symbol": "JPM",
       "name": "JPMorgan Chase",
-      "price": 359.23999,
-      "vol_annual": 0.24643757
+      "price": 356.299988,
+      "vol_annual": 0.24654633
     },
     {
       "symbol": "GS",
       "name": "Goldman Sachs",
-      "price": 1060.380005,
-      "vol_annual": 0.3294014
+      "price": 1032.579956,
+      "vol_annual": 0.3301487
     },
     {
       "symbol": "BE",
       "name": "Bloom Energy",
-      "price": 234.330002,
-      "vol_annual": 1.03853383
+      "price": 228.960007,
+      "vol_annual": 1.03867766
     },
     {
       "symbol": "WMT",
       "name": "Walmart",
-      "price": 112.339996,
-      "vol_annual": 0.25469444
+      "price": 112.07,
+      "vol_annual": 0.25469425
     },
     {
       "symbol": "NOW",
       "name": "ServiceNow",
-      "price": 117.220001,
-      "vol_annual": 0.51391924
+      "price": 117.349998,
+      "vol_annual": 0.51390387
     },
     {
       "symbol": "CRWV",
       "name": "CoreWeave",
-      "price": 89.889999,
-      "vol_annual": 1.1120556
+      "price": 85.330002,
+      "vol_annual": 1.11140318
     },
     {
       "symbol": "TXN",
       "name": "Texas Instruments",
-      "price": 277.720001,
-      "vol_annual": 0.43571883
+      "price": 278.399994,
+      "vol_annual": 0.43571208
     },
     {
       "symbol": "CAT",
       "name": "Caterpillar",
-      "price": 871.080017,
-      "vol_annual": 0.36575865
+      "price": 856.960022,
+      "vol_annual": 0.36604821
     },
     {
       "symbol": "CRM",
       "name": "Salesforce",
-      "price": 192.979996,
-      "vol_annual": 0.38075872
+      "price": 186.770004,
+      "vol_annual": 0.3815652
     },
     {
       "symbol": "V",
       "name": "Visa",
-      "price": 368.540009,
-      "vol_annual": 0.23007992
+      "price": 370.470001,
+      "vol_annual": 0.23010694
     },
     {
       "symbol": "COHR",
       "name": "Coherent",
-      "price": 328.220001,
-      "vol_annual": 0.8082106
+      "price": 334.220001,
+      "vol_annual": 0.80829127
     },
     {
       "symbol": "SATS",
@@ -309,440 +309,440 @@
     {
       "symbol": "PANW",
       "name": "Palo Alto Networks",
-      "price": 362.660004,
-      "vol_annual": 0.40600057
+      "price": 359.48999,
+      "vol_annual": 0.40593476
     },
     {
       "symbol": "ASTS",
       "name": "AST SpaceMobile",
-      "price": 68.379997,
-      "vol_annual": 1.04819022
+      "price": 67.360001,
+      "vol_annual": 1.04789608
     },
     {
       "symbol": "ALAB",
       "name": "Astera Labs",
-      "price": 318.429993,
-      "vol_annual": 0.97878975
+      "price": 331.5,
+      "vol_annual": 0.97893117
     },
     {
       "symbol": "CRDO",
       "name": "Credo Technology Group",
-      "price": 224.630005,
-      "vol_annual": 0.9542684
+      "price": 230.429993,
+      "vol_annual": 0.95395809
     },
     {
       "symbol": "IREN",
       "name": "IREN Limited",
-      "price": 38.889999,
-      "vol_annual": 1.03647358
+      "price": 37.93,
+      "vol_annual": 1.03664604
     },
     {
       "symbol": "ADBE",
       "name": "Adobe",
-      "price": 259.320007,
-      "vol_annual": 0.36840245
+      "price": 260.23999,
+      "vol_annual": 0.36842184
     },
     {
       "symbol": "TER",
       "name": "Teradyne",
-      "price": 389.390015,
-      "vol_annual": 0.69479261
+      "price": 384.890015,
+      "vol_annual": 0.69485074
     },
     {
       "symbol": "BA",
       "name": "Boeing",
-      "price": 240.190002,
-      "vol_annual": 0.36636772
+      "price": 232.190002,
+      "vol_annual": 0.3673979
     },
     {
       "symbol": "ADI",
       "name": "Analog Devices",
-      "price": 377.690002,
-      "vol_annual": 0.39251458
+      "price": 377.309998,
+      "vol_annual": 0.39251646
     },
     {
       "symbol": "IBM",
       "name": "IBM",
-      "price": 235.919998,
-      "vol_annual": 0.44667967
+      "price": 233.429993,
+      "vol_annual": 0.44675887
     },
     {
       "symbol": "MA",
       "name": "Mastercard",
-      "price": 570.47998,
-      "vol_annual": 0.23532336
+      "price": 575.950012,
+      "vol_annual": 0.23543639
     },
     {
       "symbol": "SMCI",
       "name": "Super Micro Computer",
-      "price": 30.32,
-      "vol_annual": 0.94993156
+      "price": 29.379999,
+      "vol_annual": 0.95024678
     },
     {
       "symbol": "HON",
       "name": "Honeywell",
-      "price": 248.119995,
-      "vol_annual": 0.26492319
+      "price": 240.740005,
+      "vol_annual": 0.26601309
     },
     {
       "symbol": "COST",
       "name": "Costco",
-      "price": 941.98999,
-      "vol_annual": 0.21490578
+      "price": 949.150024,
+      "vol_annual": 0.21492581
     },
     {
       "symbol": "CVX",
       "name": "Chevron",
-      "price": 186.410004,
-      "vol_annual": 0.25322753
+      "price": 189.229996,
+      "vol_annual": 0.25331582
     },
     {
       "symbol": "CIEN",
       "name": "Ciena",
-      "price": 408.829987,
-      "vol_annual": 0.68309809
+      "price": 403.76001,
+      "vol_annual": 0.6832045
     },
     {
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
-      "price": 257.589996,
-      "vol_annual": 0.20007819
+      "price": 256.980011,
+      "vol_annual": 0.20001387
     },
     {
       "symbol": "C",
       "name": "Citigroup",
-      "price": 137.639999,
-      "vol_annual": 0.32154779
+      "price": 133.820007,
+      "vol_annual": 0.32241777
     },
     {
       "symbol": "UBER",
       "name": "Uber",
-      "price": 68.18,
-      "vol_annual": 0.37308673
+      "price": 70.470001,
+      "vol_annual": 0.37394167
     },
     {
       "symbol": "GE",
       "name": "GE Aerospace",
-      "price": 381.220001,
-      "vol_annual": 0.33057814
+      "price": 374.549988,
+      "vol_annual": 0.33085618
     },
     {
       "symbol": "BAC",
       "name": "Bank of America",
-      "price": 63.25,
-      "vol_annual": 0.25646124
+      "price": 63.0,
+      "vol_annual": 0.25649051
     },
     {
       "symbol": "MRK",
       "name": "Merck",
-      "price": 128.330002,
-      "vol_annual": 0.29152385
+      "price": 128.369995,
+      "vol_annual": 0.29140267
     },
     {
       "symbol": "CRWD",
       "name": "CrowdStrike",
-      "price": 209.860001,
-      "vol_annual": 0.48567003
+      "price": 207.389999,
+      "vol_annual": 0.48545709
     },
     {
       "symbol": "RGNT",
       "name": "Regentis Biomaterials",
-      "price": 2.07,
-      "vol_annual": 2.73722621
+      "price": 1.97,
+      "vol_annual": 2.7294512
     },
     {
       "symbol": "GLW",
       "name": "Corning",
-      "price": 156.699997,
-      "vol_annual": 0.58821387
+      "price": 157.179993,
+      "vol_annual": 0.58821353
     },
     {
       "symbol": "VRT",
       "name": "Vertiv",
-      "price": 277.940002,
-      "vol_annual": 0.72014971
+      "price": 275.170013,
+      "vol_annual": 0.71995361
     },
     {
       "symbol": "BKNG",
       "name": "Booking Holdings",
-      "price": 207.020004,
-      "vol_annual": 0.33855008
+      "price": 207.389999,
+      "vol_annual": 0.33853289
     },
     {
       "symbol": "KO",
       "name": "Coca-Cola",
-      "price": 86.830002,
-      "vol_annual": 0.1886048
+      "price": 86.849998,
+      "vol_annual": 0.18859167
     },
     {
       "symbol": "IONQ",
       "name": "IonQ",
-      "price": 39.93,
-      "vol_annual": 1.07370532
+      "price": 39.720001,
+      "vol_annual": 1.07270729
     },
     {
       "symbol": "HD",
       "name": "Home Depot",
-      "price": 353.140015,
-      "vol_annual": 0.24848838
+      "price": 349.519989,
+      "vol_annual": 0.24861598
     },
     {
       "symbol": "AMGN",
       "name": "Amgen",
-      "price": 407.829987,
-      "vol_annual": 0.27704881
+      "price": 404.850006,
+      "vol_annual": 0.27711185
     },
     {
       "symbol": "COIN",
       "name": "Coinbase",
-      "price": 149.889999,
-      "vol_annual": 0.72528673
+      "price": 145.410004,
+      "vol_annual": 0.72532433
     },
     {
       "symbol": "HPE",
       "name": "Hewlett Packard Enterprise",
-      "price": 53.220001,
-      "vol_annual": 0.50971369
+      "price": 52.43,
+      "vol_annual": 0.50988472
     },
     {
       "symbol": "LIN",
       "name": "Linde",
-      "price": 491.049988,
-      "vol_annual": 0.19658217
+      "price": 490.109985,
+      "vol_annual": 0.19658428
     },
     {
       "symbol": "INTU",
       "name": "Intuit",
-      "price": 327.940002,
-      "vol_annual": 0.43749994
+      "price": 321.910004,
+      "vol_annual": 0.43770556
     },
     {
       "symbol": "APH",
       "name": "Amphenol",
-      "price": 172.240005,
-      "vol_annual": 0.43071791
+      "price": 170.610001,
+      "vol_annual": 0.43081322
     },
     {
       "symbol": "SNOW",
       "name": "Snowflake",
-      "price": 316.839996,
-      "vol_annual": 0.57898642
+      "price": 318.0,
+      "vol_annual": 0.57897222
     },
     {
       "symbol": "COF",
       "name": "Capital One",
-      "price": 221.630005,
-      "vol_annual": 0.36359483
+      "price": 220.0,
+      "vol_annual": 0.36364707
     },
     {
       "symbol": "ON",
       "name": "ON Semiconductor",
-      "price": 76.910004,
-      "vol_annual": 0.64288519
+      "price": 78.330002,
+      "vol_annual": 0.6430168
     },
     {
       "symbol": "PG",
       "name": "Procter & Gamble",
-      "price": 146.800003,
-      "vol_annual": 0.20083973
+      "price": 146.970001,
+      "vol_annual": 0.20082194
     },
     {
       "symbol": "DDOG",
       "name": "Datadog",
-      "price": 283.170013,
-      "vol_annual": 0.56481732
+      "price": 229.289993,
+      "vol_annual": 0.58952666
     },
     {
       "symbol": "AXTI",
       "name": "AXT Inc.",
-      "price": 68.610001,
-      "vol_annual": 1.32005162
+      "price": 75.169998,
+      "vol_annual": 1.32156424
     },
     {
       "symbol": "PEP",
       "name": "PepsiCo",
-      "price": 138.779999,
-      "vol_annual": 0.2271456
+      "price": 138.440002,
+      "vol_annual": 0.227144
     },
     {
       "symbol": "SOFI",
       "name": "SoFi Technologies",
-      "price": 18.25,
-      "vol_annual": 0.61510013
+      "price": 18.1,
+      "vol_annual": 0.61501938
     },
     {
       "symbol": "CRCL",
       "name": "Circle Internet Group",
       "price": 63.279999,
-      "vol_annual": 1.09003452
+      "vol_annual": 1.08816677
     },
     {
       "symbol": "FISV",
       "name": "Fiserv",
       "price": 54.110001,
-      "vol_annual": 0.62138437
+      "vol_annual": 0.62138992
     },
     {
       "symbol": "MS",
       "name": "Morgan Stanley",
-      "price": 218.270004,
-      "vol_annual": 0.31020278
+      "price": 213.75,
+      "vol_annual": 0.31070646
     },
     {
       "symbol": "MPWR",
       "name": "Monolithic Power Systems",
-      "price": 1345.459961,
-      "vol_annual": 0.58644685
+      "price": 1359.079956,
+      "vol_annual": 0.58621932
     },
     {
       "symbol": "MCD",
       "name": "McDonald's",
-      "price": 274.0,
-      "vol_annual": 0.18983479
+      "price": 276.26001,
+      "vol_annual": 0.18994873
     },
     {
       "symbol": "ANET",
       "name": "Arista Networks",
-      "price": 197.309998,
-      "vol_annual": 0.58866473
+      "price": 192.320007,
+      "vol_annual": 0.58900683
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet Class A",
-      "price": 362.429993,
-      "vol_annual": 0.32858728
+      "price": 357.75,
+      "vol_annual": 0.32865849
     },
     {
       "symbol": "TSM",
       "name": "Taiwan Semiconductor Manufacturing",
-      "price": 414.0,
-      "vol_annual": 0.42647186
+      "price": 418.200012,
+      "vol_annual": 0.42632198
     },
     {
       "symbol": "ASML",
       "name": "ASML Holding",
-      "price": 1678.219971,
-      "vol_annual": 0.44860485
+      "price": 1704.369995,
+      "vol_annual": 0.44869718
     },
     {
       "symbol": "NVO",
       "name": "Novo Nordisk",
-      "price": 44.529999,
-      "vol_annual": 0.50958349
+      "price": 45.970001,
+      "vol_annual": 0.51026199
     },
     {
       "symbol": "BRK-B",
       "name": "Berkshire Hathaway Class B",
-      "price": 518.849976,
-      "vol_annual": 0.17513591
+      "price": 524.609985,
+      "vol_annual": 0.17533406
     },
     {
       "symbol": "ABBV",
       "name": "AbbVie",
-      "price": 246.199997,
-      "vol_annual": 0.26868638
+      "price": 243.869995,
+      "vol_annual": 0.26874282
     },
     {
       "symbol": "TMO",
       "name": "Thermo Fisher Scientific",
-      "price": 577.830017,
-      "vol_annual": 0.32381819
+      "price": 580.02002,
+      "vol_annual": 0.32382459
     },
     {
       "symbol": "ABT",
       "name": "Abbott Laboratories",
-      "price": 105.709999,
-      "vol_annual": 0.2603788
+      "price": 107.959999,
+      "vol_annual": 0.26091464
     },
     {
       "symbol": "DHR",
       "name": "Danaher",
-      "price": 199.660004,
-      "vol_annual": 0.33013566
+      "price": 199.979996,
+      "vol_annual": 0.3301393
     },
     {
       "symbol": "ISRG",
       "name": "Intuitive Surgical",
-      "price": 375.200012,
-      "vol_annual": 0.3681707
+      "price": 373.709991,
+      "vol_annual": 0.36811422
     },
     {
       "symbol": "VRTX",
       "name": "Vertex Pharmaceuticals",
-      "price": 484.829987,
-      "vol_annual": 0.33254297
+      "price": 484.029999,
+      "vol_annual": 0.33248815
     },
     {
       "symbol": "GILD",
       "name": "Gilead Sciences",
-      "price": 131.759995,
-      "vol_annual": 0.27962566
+      "price": 130.860001,
+      "vol_annual": 0.27968317
     },
     {
       "symbol": "REGN",
       "name": "Regeneron Pharmaceuticals",
-      "price": 768.580017,
-      "vol_annual": 0.38744604
+      "price": 772.109985,
+      "vol_annual": 0.3873115
     },
     {
       "symbol": "MDT",
       "name": "Medtronic",
-      "price": 85.989998,
-      "vol_annual": 0.23611922
+      "price": 85.919998,
+      "vol_annual": 0.23610685
     },
     {
       "symbol": "CVS",
       "name": "CVS Health",
-      "price": 99.120003,
-      "vol_annual": 0.32938877
+      "price": 96.220001,
+      "vol_annual": 0.32998985
     },
     {
       "symbol": "PFE",
       "name": "Pfizer",
-      "price": 25.809999,
-      "vol_annual": 0.24598919
+      "price": 26.200001,
+      "vol_annual": 0.24625755
     },
     {
       "symbol": "BMY",
       "name": "Bristol Myers Squibb",
-      "price": 63.630001,
-      "vol_annual": 0.28458288
+      "price": 64.150002,
+      "vol_annual": 0.28456938
     },
     {
       "symbol": "AXP",
       "name": "American Express",
-      "price": 348.98999,
-      "vol_annual": 0.30456397
+      "price": 342.600006,
+      "vol_annual": 0.30492847
     },
     {
       "symbol": "SCHW",
       "name": "Charles Schwab",
-      "price": 108.019997,
-      "vol_annual": 0.262253
+      "price": 107.660004,
+      "vol_annual": 0.26227512
     },
     {
       "symbol": "BLK",
       "name": "BlackRock",
-      "price": 1133.579956,
-      "vol_annual": 0.28883082
+      "price": 1129.300049,
+      "vol_annual": 0.28884172
     },
     {
       "symbol": "SPGI",
       "name": "S&P Global",
-      "price": 410.029999,
-      "vol_annual": 0.29057345
+      "price": 405.23999,
+      "vol_annual": 0.29071455
     },
     {
       "symbol": "CME",
       "name": "CME Group",
-      "price": 264.779999,
-      "vol_annual": 0.2236817
+      "price": 264.320007,
+      "vol_annual": 0.22367753
     },
     {
       "symbol": "ICE",
       "name": "Intercontinental Exchange",
-      "price": 149.839996,
-      "vol_annual": 0.23003996
+      "price": 149.75,
+      "vol_annual": 0.2300324
     },
     {
       "symbol": "MMC",
@@ -753,158 +753,158 @@
     {
       "symbol": "CB",
       "name": "Chubb",
-      "price": 352.540009,
-      "vol_annual": 0.20640319
+      "price": 354.029999,
+      "vol_annual": 0.20641262
     },
     {
       "symbol": "PGR",
       "name": "Progressive",
-      "price": 212.759995,
-      "vol_annual": 0.2688471
+      "price": 215.339996,
+      "vol_annual": 0.26902611
     },
     {
       "symbol": "T",
       "name": "AT&T",
-      "price": 23.059999,
-      "vol_annual": 0.24759041
+      "price": 23.709999,
+      "vol_annual": 0.24850914
     },
     {
       "symbol": "VZ",
       "name": "Verizon",
-      "price": 46.470001,
-      "vol_annual": 0.24205138
+      "price": 46.990002,
+      "vol_annual": 0.24208631
     },
     {
       "symbol": "CMCSA",
       "name": "Comcast",
-      "price": 24.75,
-      "vol_annual": 0.30596107
+      "price": 25.17,
+      "vol_annual": 0.30626262
     },
     {
       "symbol": "DIS",
       "name": "Walt Disney",
-      "price": 101.760002,
-      "vol_annual": 0.29172752
+      "price": 104.68,
+      "vol_annual": 0.29257757
     },
     {
       "symbol": "ABNB",
       "name": "Airbnb",
-      "price": 152.490005,
-      "vol_annual": 0.35625868
+      "price": 151.639999,
+      "vol_annual": 0.35627988
     },
     {
       "symbol": "RTX",
       "name": "RTX Corporation",
-      "price": 222.309998,
-      "vol_annual": 0.27559975
+      "price": 223.25,
+      "vol_annual": 0.27559908
     },
     {
       "symbol": "LMT",
       "name": "Lockheed Martin",
-      "price": 577.599976,
-      "vol_annual": 0.28851547
+      "price": 582.849976,
+      "vol_annual": 0.28857074
     },
     {
       "symbol": "NOC",
       "name": "Northrop Grumman",
-      "price": 557.469971,
-      "vol_annual": 0.28917124
+      "price": 567.73999,
+      "vol_annual": 0.28948506
     },
     {
       "symbol": "GD",
       "name": "General Dynamics",
-      "price": 384.079987,
-      "vol_annual": 0.22795155
+      "price": 386.920013,
+      "vol_annual": 0.22800826
     },
     {
       "symbol": "DE",
       "name": "Deere & Company",
-      "price": 612.0,
-      "vol_annual": 0.3065362
+      "price": 614.840027,
+      "vol_annual": 0.30654019
     },
     {
       "symbol": "ETN",
       "name": "Eaton",
-      "price": 447.279999,
-      "vol_annual": 0.39772568
+      "price": 448.190002,
+      "vol_annual": 0.39772284
     },
     {
       "symbol": "EMR",
       "name": "Emerson Electric",
-      "price": 162.470001,
-      "vol_annual": 0.32368007
+      "price": 156.910004,
+      "vol_annual": 0.32489652
     },
     {
       "symbol": "PH",
       "name": "Parker-Hannifin",
-      "price": 996.900024,
-      "vol_annual": 0.29931975
+      "price": 1069.800049,
+      "vol_annual": 0.30435971
     },
     {
       "symbol": "ITW",
       "name": "Illinois Tool Works",
-      "price": 297.320007,
-      "vol_annual": 0.22972357
+      "price": 294.700012,
+      "vol_annual": 0.22980117
     },
     {
       "symbol": "MMM",
       "name": "3M",
-      "price": 182.080002,
-      "vol_annual": 0.29204125
+      "price": 180.710007,
+      "vol_annual": 0.29211635
     },
     {
       "symbol": "UPS",
       "name": "United Parcel Service",
-      "price": 107.699997,
-      "vol_annual": 0.33261598
+      "price": 103.199997,
+      "vol_annual": 0.33426803
     },
     {
       "symbol": "FDX",
       "name": "FedEx",
-      "price": 310.720001,
-      "vol_annual": 0.32256303
+      "price": 315.869995,
+      "vol_annual": 0.32279876
     },
     {
       "symbol": "LOW",
       "name": "Lowe's",
-      "price": 219.940002,
-      "vol_annual": 0.2660894
+      "price": 218.399994,
+      "vol_annual": 0.26614287
     },
     {
       "symbol": "TGT",
       "name": "Target",
-      "price": 147.699997,
-      "vol_annual": 0.33552198
+      "price": 147.080002,
+      "vol_annual": 0.33553993
     },
     {
       "symbol": "NKE",
       "name": "Nike",
-      "price": 42.450001,
-      "vol_annual": 0.40523551
+      "price": 42.0,
+      "vol_annual": 0.40512563
     },
     {
       "symbol": "SBUX",
       "name": "Starbucks",
-      "price": 106.0,
-      "vol_annual": 0.32145902
+      "price": 105.160004,
+      "vol_annual": 0.32147918
     },
     {
       "symbol": "CMG",
       "name": "Chipotle Mexican Grill",
-      "price": 34.5,
-      "vol_annual": 0.40426998
+      "price": 33.709999,
+      "vol_annual": 0.40462107
     },
     {
       "symbol": "MAR",
       "name": "Marriott International",
-      "price": 361.309998,
-      "vol_annual": 0.29200479
+      "price": 359.670013,
+      "vol_annual": 0.29200072
     },
     {
       "symbol": "HLT",
       "name": "Hilton Worldwide",
-      "price": 324.559998,
-      "vol_annual": 0.2552547
+      "price": 321.980011,
+      "vol_annual": 0.25531808
     }
   ]
 }
