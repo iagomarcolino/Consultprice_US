@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-08T06:46:03.844265+00:00",
+  "generated_at_utc": "2026-08-09T06:51:26.472774+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -321,8 +321,8 @@
     {
       "symbol": "ALAB",
       "name": "Astera Labs",
-      "price": 334.170013,
-      "vol_annual": 0.97887808
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "CRDO",
