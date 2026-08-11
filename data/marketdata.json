@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-10T22:56:10.281774+00:00",
+  "generated_at_utc": "2026-08-11T07:01:50.586074+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -357,8 +357,8 @@
     {
       "symbol": "ADI",
       "name": "Analog Devices",
-      "price": 383.924988,
-      "vol_annual": 0.39326577
+      "price": 383.929993,
+      "vol_annual": 0.39326542
     },
     {
       "symbol": "IBM",
