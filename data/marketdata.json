@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-12T23:01:03.185650+00:00",
+  "generated_at_utc": "2026-08-13T07:22:16.746515+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -154,7 +154,7 @@
       "symbol": "ROKU",
       "name": "Roku",
       "price": 151.789993,
-      "vol_annual": 0.52473538
+      "vol_annual": 0.52599843
     },
     {
       "symbol": "HOOD",
@@ -387,8 +387,8 @@
     {
       "symbol": "COST",
       "name": "Costco",
-      "price": 949.575012,
-      "vol_annual": 0.21490803
+      "price": 949.580017,
+      "vol_annual": 0.21490812
     },
     {
       "symbol": "CVX",
@@ -448,7 +448,7 @@
       "symbol": "RGNT",
       "name": "Regentis Biomaterials",
       "price": 1.94,
-      "vol_annual": 2.71424976
+      "vol_annual": 2.69852675
     },
     {
       "symbol": "GLW",
@@ -586,7 +586,7 @@
       "symbol": "MS",
       "name": "Morgan Stanley",
       "price": 217.639999,
-      "vol_annual": 0.31019919
+      "vol_annual": 0.31030819
     },
     {
       "symbol": "MPWR",
@@ -670,7 +670,7 @@
       "symbol": "VRTX",
       "name": "Vertex Pharmaceuticals",
       "price": 525.72998,
-      "vol_annual": 0.33559519
+      "vol_annual": 0.33604695
     },
     {
       "symbol": "GILD",
@@ -706,7 +706,7 @@
       "symbol": "BMY",
       "name": "Bristol Myers Squibb",
       "price": 63.700001,
-      "vol_annual": 0.28496957
+      "vol_annual": 0.285505
     },
     {
       "symbol": "AXP",
@@ -718,19 +718,19 @@
       "symbol": "SCHW",
       "name": "Charles Schwab",
       "price": 109.339996,
-      "vol_annual": 0.26128622
+      "vol_annual": 0.26182035
     },
     {
       "symbol": "BLK",
       "name": "BlackRock",
       "price": 1160.910034,
-      "vol_annual": 0.2879556
+      "vol_annual": 0.28756063
     },
     {
       "symbol": "SPGI",
       "name": "S&P Global",
       "price": 410.100006,
-      "vol_annual": 0.29062086
+      "vol_annual": 0.2895694
     },
     {
       "symbol": "CME",
@@ -820,7 +820,7 @@
       "symbol": "DE",
       "name": "Deere & Company",
       "price": 619.77002,
-      "vol_annual": 0.30663931
+      "vol_annual": 0.30685121
     },
     {
       "symbol": "ETN",
@@ -832,19 +832,19 @@
       "symbol": "EMR",
       "name": "Emerson Electric",
       "price": 163.800003,
-      "vol_annual": 0.32514036
+      "vol_annual": 0.32554712
     },
     {
       "symbol": "PH",
       "name": "Parker-Hannifin",
       "price": 1069.52002,
-      "vol_annual": 0.30420161
+      "vol_annual": 0.30515361
     },
     {
       "symbol": "ITW",
       "name": "Illinois Tool Works",
       "price": 292.51001,
-      "vol_annual": 0.22942389
+      "vol_annual": 0.23007926
     },
     {
       "symbol": "MMM",
@@ -856,13 +856,13 @@
       "symbol": "UPS",
       "name": "United Parcel Service",
       "price": 103.910004,
-      "vol_annual": 0.33411696
+      "vol_annual": 0.33418436
     },
     {
       "symbol": "FDX",
       "name": "FedEx",
       "price": 326.769989,
-      "vol_annual": 0.3227636
+      "vol_annual": 0.3229645
     },
     {
       "symbol": "LOW",
@@ -898,7 +898,7 @@
       "symbol": "MAR",
       "name": "Marriott International",
       "price": 354.579987,
-      "vol_annual": 0.2927003
+      "vol_annual": 0.2922388
     },
     {
       "symbol": "HLT",
