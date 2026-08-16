@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-15T06:32:32.170724+00:00",
+  "generated_at_utc": "2026-08-16T06:34:38.546052+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -51,8 +51,8 @@
     {
       "symbol": "MRVL",
       "name": "Marvell Technology",
-      "price": 222.020004,
-      "vol_annual": 0.77053099
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "AAPL",
@@ -154,7 +154,7 @@
       "symbol": "ROKU",
       "name": "Roku",
       "price": 157.679993,
-      "vol_annual": 0.52146473
+      "vol_annual": 0.5227184
     },
     {
       "symbol": "HOOD",
@@ -448,7 +448,7 @@
       "symbol": "RGNT",
       "name": "Regentis Biomaterials",
       "price": 2.0,
-      "vol_annual": 2.68379083
+      "vol_annual": 2.699237
     },
     {
       "symbol": "GLW",
@@ -484,7 +484,7 @@
       "symbol": "HD",
       "name": "Home Depot",
       "price": 338.859985,
-      "vol_annual": 0.25037384
+      "vol_annual": 0.25098513
     },
     {
       "symbol": "AMGN",
@@ -586,7 +586,7 @@
       "symbol": "MS",
       "name": "Morgan Stanley",
       "price": 217.360001,
-      "vol_annual": 0.30883873
+      "vol_annual": 0.30894573
     },
     {
       "symbol": "MPWR",
@@ -670,7 +670,7 @@
       "symbol": "VRTX",
       "name": "Vertex Pharmaceuticals",
       "price": 505.75,
-      "vol_annual": 0.33623609
+      "vol_annual": 0.33669416
     },
     {
       "symbol": "GILD",
@@ -718,7 +718,7 @@
       "symbol": "SCHW",
       "name": "Charles Schwab",
       "price": 111.089996,
-      "vol_annual": 0.26128322
+      "vol_annual": 0.26181811
     },
     {
       "symbol": "BLK",
@@ -730,7 +730,7 @@
       "symbol": "SPGI",
       "name": "S&P Global",
       "price": 418.799988,
-      "vol_annual": 0.29085157
+      "vol_annual": 0.28978882
     },
     {
       "symbol": "CME",
@@ -742,7 +742,7 @@
       "symbol": "ICE",
       "name": "Intercontinental Exchange",
       "price": 154.729996,
-      "vol_annual": 0.22934772
+      "vol_annual": 0.22854738
     },
     {
       "symbol": "MMC",
@@ -856,7 +856,7 @@
       "symbol": "UPS",
       "name": "United Parcel Service",
       "price": 104.5,
-      "vol_annual": 0.33353126
+      "vol_annual": 0.33359808
     },
     {
       "symbol": "FDX",
@@ -904,7 +904,7 @@
       "symbol": "HLT",
       "name": "Hilton Worldwide",
       "price": 327.209991,
-      "vol_annual": 0.25683209
+      "vol_annual": 0.25769205
     }
   ]
 }
