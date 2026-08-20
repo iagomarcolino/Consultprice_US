@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-19T22:41:09.380842+00:00",
+  "generated_at_utc": "2026-08-20T06:40:17.397976+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -15,8 +15,8 @@
     {
       "symbol": "MU",
       "name": "Micron Technology",
-      "price": 937.10498,
-      "vol_annual": 0.74611127
+      "price": 937.109985,
+      "vol_annual": 0.74611123
     },
     {
       "symbol": "NVDA",
@@ -382,7 +382,7 @@
       "symbol": "HON",
       "name": "Honeywell",
       "price": 221.729996,
-      "vol_annual": 0.27169045
+      "vol_annual": 0.27152327
     },
     {
       "symbol": "COST",
@@ -466,7 +466,7 @@
       "symbol": "BKNG",
       "name": "Booking Holdings",
       "price": 213.0,
-      "vol_annual": 0.34064939
+      "vol_annual": 0.3398661
     },
     {
       "symbol": "KO",
@@ -682,13 +682,13 @@
       "symbol": "REGN",
       "name": "Regeneron Pharmaceuticals",
       "price": 840.840027,
-      "vol_annual": 0.38502761
+      "vol_annual": 0.38547512
     },
     {
       "symbol": "MDT",
       "name": "Medtronic",
       "price": 94.129997,
-      "vol_annual": 0.23362443
+      "vol_annual": 0.23326665
     },
     {
       "symbol": "CVS",
@@ -724,13 +724,13 @@
       "symbol": "BLK",
       "name": "BlackRock",
       "price": 1158.920044,
-      "vol_annual": 0.28504768
+      "vol_annual": 0.28461
     },
     {
       "symbol": "SPGI",
       "name": "S&P Global",
       "price": 426.660004,
-      "vol_annual": 0.29141681
+      "vol_annual": 0.29036388
     },
     {
       "symbol": "CME",
@@ -820,7 +820,7 @@
       "symbol": "DE",
       "name": "Deere & Company",
       "price": 580.630005,
-      "vol_annual": 0.30494349
+      "vol_annual": 0.30511038
     },
     {
       "symbol": "ETN",
@@ -838,7 +838,7 @@
       "symbol": "PH",
       "name": "Parker-Hannifin",
       "price": 1023.25,
-      "vol_annual": 0.30396431
+      "vol_annual": 0.30488727
     },
     {
       "symbol": "ITW",
@@ -874,7 +874,7 @@
       "symbol": "TGT",
       "name": "Target",
       "price": 159.0,
-      "vol_annual": 0.33667794
+      "vol_annual": 0.33611726
     },
     {
       "symbol": "NKE",
