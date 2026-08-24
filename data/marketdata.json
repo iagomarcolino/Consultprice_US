@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-23T06:35:27.853471+00:00",
+  "generated_at_utc": "2026-08-24T06:52:16.166334+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -93,8 +93,8 @@
     {
       "symbol": "GOOG",
       "name": "Alphabet Class C",
-      "price": 341.75,
-      "vol_annual": 0.32413797
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "WDC",
