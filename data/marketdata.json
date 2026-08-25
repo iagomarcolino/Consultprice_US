@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-24T22:44:23.130771+00:00",
+  "generated_at_utc": "2026-08-25T06:40:37.803525+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -39,8 +39,8 @@
     {
       "symbol": "AMD",
       "name": "Advanced Micro Devices",
-      "price": 456.744995,
-      "vol_annual": 0.65738104
+      "price": 456.75,
+      "vol_annual": 0.65738063
     },
     {
       "symbol": "INTC",
@@ -735,8 +735,8 @@
     {
       "symbol": "CME",
       "name": "CME Group",
-      "price": 279.165009,
-      "vol_annual": 0.22405565
+      "price": 279.170013,
+      "vol_annual": 0.2240564
     },
     {
       "symbol": "ICE",
