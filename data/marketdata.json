@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-02T00:14:33.509346+00:00",
+  "generated_at_utc": "2026-09-02T10:35:49.582551+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -154,7 +154,7 @@
       "symbol": "ROKU",
       "name": "Roku",
       "price": 155.529999,
-      "vol_annual": 0.51620675
+      "vol_annual": 0.51744957
     },
     {
       "symbol": "HOOD",
@@ -172,7 +172,7 @@
       "symbol": "GEV",
       "name": "GE Vernova",
       "price": 898.530029,
-      "vol_annual": 0.52867248
+      "vol_annual": 0.52847996
     },
     {
       "symbol": "XOM",
@@ -220,13 +220,13 @@
       "symbol": "UNH",
       "name": "UnitedHealth Group",
       "price": 396.299988,
-      "vol_annual": 0.46516059
+      "vol_annual": 0.46627245
     },
     {
       "symbol": "CSCO",
       "name": "Cisco Systems",
       "price": 109.739998,
-      "vol_annual": 0.3112312
+      "vol_annual": 0.31152958
     },
     {
       "symbol": "MSTR",
@@ -238,7 +238,7 @@
       "symbol": "JPM",
       "name": "JPMorgan Chase",
       "price": 354.950012,
-      "vol_annual": 0.24533441
+      "vol_annual": 0.2458171
     },
     {
       "symbol": "GS",
@@ -280,7 +280,7 @@
       "symbol": "CAT",
       "name": "Caterpillar",
       "price": 779.159973,
-      "vol_annual": 0.36710184
+      "vol_annual": 0.36756751
     },
     {
       "symbol": "CRM",
@@ -292,7 +292,7 @@
       "symbol": "V",
       "name": "Visa",
       "price": 372.670013,
-      "vol_annual": 0.23207016
+      "vol_annual": 0.2325722
     },
     {
       "symbol": "COHR",
@@ -388,7 +388,7 @@
       "symbol": "COST",
       "name": "Costco",
       "price": 939.960022,
-      "vol_annual": 0.21588665
+      "vol_annual": 0.21623031
     },
     {
       "symbol": "CVX",
@@ -400,7 +400,7 @@
       "symbol": "CIEN",
       "name": "Ciena",
       "price": 360.329987,
-      "vol_annual": 0.67104395
+      "vol_annual": 0.67106985
     },
     {
       "symbol": "JNJ",
@@ -430,7 +430,7 @@
       "symbol": "BAC",
       "name": "Bank of America",
       "price": 61.990002,
-      "vol_annual": 0.25544867
+      "vol_annual": 0.25563538
     },
     {
       "symbol": "MRK",
@@ -448,7 +448,7 @@
       "symbol": "RGNT",
       "name": "Regentis Biomaterials",
       "price": 2.06,
-      "vol_annual": 2.60140555
+      "vol_annual": 2.61533508
     },
     {
       "symbol": "GLW",
@@ -519,8 +519,8 @@
     {
       "symbol": "APH",
       "name": "Amphenol",
-      "price": 163.179993,
-      "vol_annual": 0.4176226
+      "price": 151.199997,
+      "vol_annual": 0.4161162
     },
     {
       "symbol": "SNOW",
@@ -790,7 +790,7 @@
       "symbol": "ABNB",
       "name": "Airbnb",
       "price": 182.544998,
-      "vol_annual": 0.37835035
+      "vol_annual": 0.37775201
     },
     {
       "symbol": "RTX",
@@ -808,7 +808,7 @@
       "symbol": "NOC",
       "name": "Northrop Grumman",
       "price": 532.909973,
-      "vol_annual": 0.28816766
+      "vol_annual": 0.28875875
     },
     {
       "symbol": "GD",
@@ -826,7 +826,7 @@
       "symbol": "ETN",
       "name": "Eaton",
       "price": 390.709991,
-      "vol_annual": 0.37762661
+      "vol_annual": 0.37765853
     },
     {
       "symbol": "EMR",
@@ -844,7 +844,7 @@
       "symbol": "ITW",
       "name": "Illinois Tool Works",
       "price": 269.880005,
-      "vol_annual": 0.22869094
+      "vol_annual": 0.22881141
     },
     {
       "symbol": "MMM",
@@ -862,7 +862,7 @@
       "symbol": "FDX",
       "name": "FedEx",
       "price": 324.880005,
-      "vol_annual": 0.32346806
+      "vol_annual": 0.32414646
     },
     {
       "symbol": "LOW",
@@ -874,7 +874,7 @@
       "symbol": "TGT",
       "name": "Target",
       "price": 163.75,
-      "vol_annual": 0.33871656
+      "vol_annual": 0.33909467
     },
     {
       "symbol": "NKE",
