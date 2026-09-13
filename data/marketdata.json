@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-12T10:03:26.514708+00:00",
+  "generated_at_utc": "2026-09-13T11:03:48.959972+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -207,8 +207,8 @@
     {
       "symbol": "AAOI",
       "name": "Applied Optoelectronics",
-      "price": 105.360001,
-      "vol_annual": 1.34953004
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "AAL",
