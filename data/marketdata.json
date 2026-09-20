@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-19T10:16:52.403836+00:00",
+  "generated_at_utc": "2026-09-20T10:35:22.262445+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -297,8 +297,8 @@
     {
       "symbol": "COHR",
       "name": "Coherent",
-      "price": 317.359985,
-      "vol_annual": 0.82193657
+      "price": null,
+      "vol_annual": null
     },
     {
       "symbol": "SATS",
