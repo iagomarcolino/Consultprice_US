@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-29T01:57:27.809947+00:00",
+  "generated_at_utc": "2026-09-29T12:06:04.560585+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -543,8 +543,8 @@
     {
       "symbol": "PG",
       "name": "Procter & Gamble",
-      "price": null,
-      "vol_annual": null
+      "price": 149.029999,
+      "vol_annual": 0.19353519
     },
     {
       "symbol": "DDOG",
