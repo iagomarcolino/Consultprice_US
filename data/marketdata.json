@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-31T01:35:28.609637+00:00",
+  "generated_at_utc": "2026-10-31T11:39:49.851151+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -87,8 +87,8 @@
     {
       "symbol": "AMAT",
       "name": "Applied Materials",
-      "price": null,
-      "vol_annual": null
+      "price": 390.089996,
+      "vol_annual": 0.5662177
     },
     {
       "symbol": "GOOG",
