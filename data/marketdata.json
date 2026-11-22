@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-21T14:11:16.364672+00:00",
+  "generated_at_utc": "2026-11-22T14:00:23.908272+00:00",
   "source": "yfinance",
   "interval": "1d",
   "lookback": "400d",
@@ -154,7 +154,7 @@
       "symbol": "ROKU",
       "name": "Roku",
       "price": 160.520004,
-      "vol_annual": 0.42745888
+      "vol_annual": null
     },
     {
       "symbol": "HOOD",
